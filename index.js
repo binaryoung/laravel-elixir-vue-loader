@@ -77,7 +77,7 @@ var handleWebpackConfig = function (webpackConfig, paths) {
     };
 
     if (fs.existsSync('webpack.config.js')) {
-        var customWebpackConfig = require('./webpack.config.js');
+        var customWebpackConfig = require('./../../webpack.config.js');
         defaultWebpackConfig = _.extend(defaultWebpackConfig, customWebpackConfig);
     }
 

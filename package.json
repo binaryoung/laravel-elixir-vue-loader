@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-vue-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel Elixir Vue-loader Extension",
   "main": "index.js",
   "scripts": {
