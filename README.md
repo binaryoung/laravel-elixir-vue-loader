@@ -65,4 +65,4 @@ elixir(function(mix) {
 
 Feel free to report bugs or suggestions on issue page.
 
-##Let The Code Fly ~
+##Let The Code Fly ~ :tada:
